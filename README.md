@@ -1,3 +1,3 @@
 # Simple-Counter
 
-Simple counter using html, css and javascript
+Simple counter using html, css and typescript
